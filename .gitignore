@@ -1,0 +1,11 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+
+*.pt
+
+.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+
